@@ -6,11 +6,11 @@ Este repositorio contiene las pruebas realizadas en las API de una aplicación w
 
 Características:
 
-Pruebas API automatizadas y manuales realizadas con Postman.
+- Pruebas API manuales realizadas con Postman.
 
-Validación de las respuestas de las solicitudes API para asegurar el correcto intercambio de datos.
+- Validación de las respuestas de las solicitudes API para asegurar el correcto intercambio de datos.
 
-Registro detallado de los errores encontrados durante las pruebas, gestionados y documentados en JIRA para su seguimiento y resolución.
+- Registro detallado de los errores encontrados durante las pruebas, gestionados y documentados en JIRA para su seguimiento y resolución.
 
 
 Este proyecto contribuyó a mejorar la estabilidad y el rendimiento de la aplicación mediante la identificación oportuna de fallos en la comunicación API.
